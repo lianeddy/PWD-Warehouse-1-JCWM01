@@ -5,3 +5,4 @@
 // fitur register
 // ini invoice
 // ini fitur register selesai
+// ini fitur pilih shipping selesai
